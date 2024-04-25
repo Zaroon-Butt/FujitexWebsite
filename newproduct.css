@@ -1,0 +1,25 @@
+
+body {
+ 
+    text-align: center;
+    margin: 1rem 42rem;
+}
+label{
+    color: red;
+}
+h1{
+    color: rgb(255, 157, 0);
+    background-color: black;
+}
+
+input[type="submit"]{
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+}
+.center{
+    margin: auto;
+}
+.BD{
+    background-color: powderblue;
+}
